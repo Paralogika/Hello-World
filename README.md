@@ -5,4 +5,7 @@ A place to keep resources, pre-embryonic project ideas and ephemera
 Markdown [syntax guide] (https://guides.github.com/features/mastering-markdown/) 
 
 emoji [cheatsheet] (http://www.emoji-cheat-sheet.com)
-:bowtie: /play crickets
+
+:bowtie: 
+
+/play crickets
